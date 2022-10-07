@@ -1,5 +1,10 @@
 # UserManagement
+
+
 create a database named users
+
+
+Next steps 
 create two table
 1.user table contain name ,mobile,email,password
 2.admin table with name and password
